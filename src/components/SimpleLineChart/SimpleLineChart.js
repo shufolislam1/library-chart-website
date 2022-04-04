@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Line, LineChart } from 'recharts';
 
 const SimpleLineChart = () => {
+
     const [chart, SetChart] = useState({});
 
     useEffect( () =>{
