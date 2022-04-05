@@ -28,6 +28,7 @@
 .order-btn {
     border: none;
     padding: 20px;
+    margin: 20px;
     border-radius: 9px;
     background-color: cadetblue;
     color: white;
@@ -35,4 +36,9 @@
 .order-btn:hover{
     background-color: orangered;
     transition: .5s;
+}
+.review{
+    display: block;
+    margin: auto;
+    text-align: center;
 }

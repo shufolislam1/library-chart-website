@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "name": "Mohammad",
+        "details": "Their seviece is super cool and i am tootaly satisfied. They also provide ancient history books.its very good.",
+        "ratings": "4.7/5"
+    },
+    {
+        "id":"2",
+        "name": "Khaled",
+        "details": "Delivery cost was low and i got the exact book that i needed.i am fully satisfied with them.",
+        "ratings": "4.5/5"
+    },
+    {
+        "id":"3",
+        "name": "Ayesha",
+        "details": "Their after sales customer service is very good.cause i had faced a problem once and they solved that carefully.This is why i love this store.",
+        "ratings": "4.2/5"
+    },
+    {
+        "id":"4",
+        "name": "Bellal",
+        "details": "I just found a nobel which i can't find another store.I am super happy and super satisfied.",
+        "ratings": "4.9/5"
+    },
+    {
+        "id":"5",
+        "name": "Nihal",
+        "details": "Its my first time and the product was good.But delivery time was late.Hope next time will be fast",
+        "ratings": "3.7/5"
+    },
+    {
+        "id":"6",
+        "name": "Al Hadi",
+        "details": "i bought many scintific books from them.These were original and price was resonable.Good experience with them.",
+        "ratings": "4.3/5"
+    }
+]
