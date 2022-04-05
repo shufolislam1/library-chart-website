@@ -1,6 +1,7 @@
 .review-design{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    background-color: whitesmoke;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 36px;
+    background-color: cadetblue;
     opacity: .8;
 }

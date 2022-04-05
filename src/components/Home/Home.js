@@ -37,7 +37,7 @@ const Home = () => {
           <button className="order-btn">see all reviews</button>
         </Link>
       </div>
-      <div>
+      <div className="review-design-parent">
       {
         reviews.slice(0, 3).map(rev => <Review
           rev={rev}
